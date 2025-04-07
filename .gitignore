@@ -1,4 +1,11 @@
-.Todos
+# macOS specific
+.DS_Store
+
+# Configuration/Data/Secrets
+Todos
+NNGrid.pages
+env/
+data/
+
+# IDE specific (already present but good practice)
 .vscode
-.env
-.NNGrid.pages
